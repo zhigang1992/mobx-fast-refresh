@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "use-mobx-observable": "1.1.0-beta.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
